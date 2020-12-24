@@ -1,4 +1,4 @@
 # DataScience
-Data Science for Learn
+Data Science for Learn.
 This ipynb using open data.
-Let's fun with Data
+Let's fun with Data.
